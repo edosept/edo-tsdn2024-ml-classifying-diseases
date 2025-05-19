@@ -1,4 +1,4 @@
-# Hypertension Risk Classification Project
+# Machine Learning Project Sharing Session to TSDN 2024
 
 ## Overview
 This project implements a machine learning model using LightGBM to predict hypertension risk based on various health indicators. The model provides risk probability, risk level classification, and personalized health recommendations.
