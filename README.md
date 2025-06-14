@@ -77,9 +77,9 @@ results = predict_hypertension_risk("path_to_model.joblib", input_data)
 - lightgbm
 - joblib
 
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for terms.
 
-## Contact
-For questions, feedback, or collaborations:
+**Keep the copyright notice if you use this code. Attribution appreciated but not required.**
 
-- Email: edoseptian48@gmail.com
-- Project Issues: Please use the GitHub Issues tab for bug reports and feature requests
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
